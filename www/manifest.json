@@ -1,0 +1,26 @@
+{
+  "name": "File Manager Pro",
+  "short_name": "FileManagerPro",
+  "description": "Advanced file management with cloud integration, compression, and secure file sharing",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4A90E2",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "categories": [
+    "utilities"
+  ],
+  "lang": "en"
+}
